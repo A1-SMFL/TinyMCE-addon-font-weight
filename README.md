@@ -1,3 +1,2 @@
-# fontWeight TinyMCE Plugin
-
-Welcome stranger! This is a repo containing the fontWeight TinyMCE plugin.
+# TinyMCE-addon-font-weight
+An addon for TinyMCE that allows you to select Font Weight of text
