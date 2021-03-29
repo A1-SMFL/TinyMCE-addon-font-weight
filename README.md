@@ -10,7 +10,7 @@ npm install -g yarn
 npm start
 
 -- BUILD --
-npm run build
+yarn build --force 
 
 -------------------------
 
